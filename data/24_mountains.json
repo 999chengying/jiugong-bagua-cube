@@ -1,0 +1,13 @@
+{
+  "description": "二十四山：每宫极点 + 三山（左生成、中中分、右镜象）",
+  "mountains": {
+    "1": {"pole": "坤", "mountains": [6, 7, 8]},
+    "2": {"pole": "巽", "mountains": [7, 8, 6]},
+    "3": {"pole": "离", "mountains": [8, 7, 6]},
+    "4": {"pole": "兑", "mountains": [6, 8, 7]},
+    "6": {"pole": "艮", "mountains": [4, 2, 3]},
+    "7": {"pole": "坎", "mountains": [2, 3, 4]},
+    "8": {"pole": "震", "mountains": [3, 2, 4]},
+    "9": {"pole": "乾", "mountains": [4, 3, 2]}
+  }
+}
