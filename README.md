@@ -62,3 +62,11 @@ python src/cycle_analysis.py 5 子
 
 ```
 ---
+## Benchmark
+
+见 `benchmark/` 目录。运行：
+
+```bash
+python benchmark/run_benchmark.py
+输出 A 组（自由推理）与 B 组（结构查表）的字符数对比。
+字符数仅为 token 的粗略代理，真实 token 需接入模型后测量。
