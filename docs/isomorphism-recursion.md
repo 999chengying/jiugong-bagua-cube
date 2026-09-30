@@ -33,8 +33,9 @@ K=9 时，显两个正四面体。
 ## 5. 实验建议
 
 1. 运行 `python src/cycle_analysis.py 5 子`，验证回文。
-2. 运行 `python src/cycle_analysis.py 6 子` 与 `6 未`，验证双御街。
-3. 设计五个同构模型的帝宫实验。
+   
+3. 运行 `python src/cycle_analysis.py 6 子` 与 `6 未`，验证双御街。
+4. 设计五个同构模型的帝宫实验。
 
 ## 6. 边界
 
