@@ -9,6 +9,9 @@
     {"type": "cycle", "K": 5, "start": "子", "desc": "K=5回文"},
     {"type": "cycle", "K": 6, "start": "子", "desc": "K=6四正御街"},
     {"type": "cycle", "K": 6, "start": "未", "desc": "K=6四维御街"},
-    {"type": "cycle", "K": 9, "start": "子", "desc": "K=9双恒"}
+    {"type": "cycle", "K": 9, "start": "子", "desc": "K=9双恒"},
+    {"type": "tetra", "numbers": [3, 6, 9, 2], "desc": "四象·老阳相关3692"},
+    {"type": "tetra", "numbers": [1, 4, 7, 8], "desc": "四象·少阳相关8147"},
+    {"type": "cycle", "K": 5, "start": "子", "desc": "四象·K=5回文"}
   ]
 }
