@@ -76,3 +76,4 @@ python src/jiugong_encoder.py 1 6 7 8
 
 预期输出:
 {"form": "生", "volume": 0.1666}
+
