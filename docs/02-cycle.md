@@ -75,3 +75,4 @@ C = \frac{K}{\gcd(24,K)} \quad \text{（圈数）}
 
 ```bash
 python src/cycle_analysis.py 5 子
+
